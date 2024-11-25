@@ -1,0 +1,8 @@
+.h1{
+    border-top: 5px dotted green;
+    border-right: 5px double green;
+    border-bottom: 5px dashed green;
+    border-left: solid 5px green;
+    width: 80px;
+    height: 80px;
+}
